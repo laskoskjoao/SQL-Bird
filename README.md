@@ -11,15 +11,15 @@ como um trabalho para a disciplina de Introdução a Banco de Dados da UTFPR.
 
 As imagens abaixo mostram a utilização do SQLBird.
 
-* Janela Principal
+### Janela Principal
 
 ![janela principal](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal.png)
 
-* Janela Principal com detalhes (visualização dos bancos, tabelas, propriedades das tabelas e views)
+### Janela Principal com detalhes (visualização dos bancos, tabelas, propriedades das tabelas e views)
 
 ![janela principal detalhes](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal_dados_propriedades.png)
 
-* Execução de um comando SQL
+### Execução de um comando SQL
 
 ![execucao query](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/execucao_query.png)
 
