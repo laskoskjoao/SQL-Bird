@@ -4,25 +4,24 @@
 
 # :bird: SQL-Bird
 
-## :clipboard: Definição
+## :clipboard: Introduction
 
-SQLBird é uma ferramenta que possibilita visualizar e manipular bancos de dados MySQL e PostgreSQL, podendo assim realizar comandos DDL e DML. O SQLBird foi desenvolvido em 2020 
-como um trabalho para a disciplina de Introdução a Banco de Dados da UTFPR.
+SQLBird is a tool that allows you to visualize and manipulate MySQL and PostgreSQL databases, thus being able to execute DDL and DML commands. SQLBird was developed in 2020 as a work for the Introduction to Database course at UTFPR.
 
-## :bar_chart: Funcionamento
+## :bar_chart: Operation
 
 As imagens abaixo mostram a utilização do SQLBird.
 
-### Janela Principal
+### Main Window
 
-![janela principal](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal.png)
+![Main Window](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal.png)
 
-### Janela Principal com detalhes (visualização dos bancos, tabelas, propriedades das tabelas e views)
+### Main Window with details (visualization of databases, tables, properties of tables and views)
 
-![janela principal detalhes](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal_dados_propriedades.png)
+![Main Window with details](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/janela_principal_dados_propriedades.png)
 
-### Execução de um comando SQL
+### Executing an SQL command
 
-![execucao query](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/execucao_query.png)
+![Executing query](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/execucao_query.png)
 
-Para mais informações do projeto, como utilizar e configurar, é possível consultar o documento "Relatorio SQLBird.pdf" anexo no projeto.
+For more information about the project, how to use and configure it, you can consult the document "Relatorio SQLBird.pdf" (in Portuguese) attached to the project.
