@@ -1,4 +1,6 @@
-![logo](https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/logo.png)
+<p align="center">
+<img width="800" height="255" src="https://github.com/laskoskjoao/SQL-Bird/blob/main/imagens/logo.png">
+</p>
 
 # :bird: SQL-Bird
 
