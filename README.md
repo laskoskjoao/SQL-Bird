@@ -10,7 +10,7 @@ SQLBird is a tool that allows you to visualize and manipulate MySQL and PostgreS
 
 ## :bar_chart: Operation
 
-As imagens abaixo mostram a utilização do SQLBird.
+The images below show how the system works.
 
 ### Main Window
 
